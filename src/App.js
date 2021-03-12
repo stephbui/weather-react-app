@@ -10,7 +10,7 @@ export default function App() {
         <Weather defaultCity="Montreal" />
         <footer>
           This project was coded by Stephanie Bui and is {" "}
-          <a href="https://github.com/stephbui/weather-react-app" target="_blank">
+          <a href="https://github.com/stephbui/weather-react-app" target="_blank" rel="noreferrer">
             open-sourced on GitHub
         </a>
         </footer>
